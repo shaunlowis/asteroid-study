@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Zhang, Antong
+AU  - Yang, Jiani
+AU  - Luo, Yangcheng
+AU  - Fan, Siteng
+PY  - 2023
+DA  - 2023/07/12
+TI  - Forecasting the progression of human civilization on the Kardashev Scale through 2060 with a machine learning approach
+JO  - Scientific Reports
+SP  - 11305
+VL  - 13
+IS  - 1
+AB  - Energy has been propelling the development of human civilization for millennia. Humanity presently stands at Type 0.7276 on the Kardashev Scale, which was proposed to quantify the relationship between energy consumption and the development of civilizations. However, current predictions of human civilization remain underdeveloped and energy consumption models are oversimplified. In order to improve the precision of the prediction, we use machine learning models random forest and autoregressive integrated moving average to simulate and predict energy consumption on a global scale and the position of humanity on the Kardashev Scale through 2060. The result suggests that global energy consumption is expected to reach ~ 887 EJ in 2060, and humanity will become a Type 0.7449 civilization. Additionally, the potential energy segmentation changes before 2060 and the influence of the advent of nuclear fusion are discussed. We conclude that if energy strategies and technologies remain in the present course, it may take human civilization millennia to become a Type 1 civilization. The machine learning tool we develop significantly improves the previous projection of the Kardashev Scale, which is critical in the context of civilization development.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-023-38351-y
+DO  - 10.1038/s41598-023-38351-y
+ID  - Zhang2023
+ER  - 
